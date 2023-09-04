@@ -1,0 +1,17 @@
+/* Footer.css */
+
+.footer-wrapper {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.bg-dark {
+    /* Define styles for the footer content here */
+    background-color: #0f0f0f;
+    color: #fff;
+}
+
+.text-white {
+    color: white
+}

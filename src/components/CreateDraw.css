@@ -1,0 +1,50 @@
+/* CreateDraw.css */
+.create-draw-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.create-draw-container h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.create-draw-container form label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.create-draw-container form input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.create-draw-container form button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.create-draw-container form button:hover {
+    background-color: #0056b3;
+}
+
+.create-draw-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.create-draw-container ul li {
+    margin-bottom: 5px;
+}
