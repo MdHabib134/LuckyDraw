@@ -7,7 +7,7 @@ import Footer from './Footer';
 const Home = () => {
     return (
         <div className="home-container">
-            <h1>Welcome to the Lucky Draw App</h1>
+            <h1>Welcome to the Lucky Draw!</h1>
             <p>
                 Get ready for some fun and excitement!
             </p>
